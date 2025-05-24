@@ -24,6 +24,7 @@
 
 ### Frameworks I Use
 <img src="https://iconbuddy.com/icons/download/scrapy--31088" alt="Scrapy Logo" width="50" height="50"/>
+![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)
 
 
 
