@@ -23,9 +23,8 @@
  
 
 ### Frameworks I Use
-<a href="https://scrapy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/scrapy/scrapy/main/docs/images/scrapy-logo.png" alt="Scrapy Logo" width="48" height="48"/>
-</a>
+<img src="https://iconbuddy.com/icons/download/scrapy--31088" alt="Scrapy Logo" width="50" height="50"/>
+
 
 
 
