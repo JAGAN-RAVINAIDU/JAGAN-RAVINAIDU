@@ -18,7 +18,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
  <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
- <img src="https://img.icons8.com/color/48/python--v1.png" alt="python-logo" width="48" height="48"/>
  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="pycharm-logo" width="48" height="48"/>
 
  
@@ -32,10 +31,10 @@
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS badge"/>
 
    
-### Testing Tools I Used
-<img src="https://github.com/coderMerx/coderMerx/blob/d53753bef7a3511834802c48ad9befb30a5b9e88/burp.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/d53753bef7a3511834802c48ad9befb30a5b9e88/nmap-logo-256x256.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/d53753bef7a3511834802c48ad9befb30a5b9e88/metasploit.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/a2d46e151a2a27fa6ace83a78b77419361d7ae89/sho.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/a2d46e151a2a27fa6ace83a78b77419361d7ae89/ngrok.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/df7c9597f312425d036d7713264f7a6323bbb12b/wireshark.jpg" width="50" height="50">
-### design Software I Used 
-<img src="https://github.com/coderMerx/coderMerx/blob/df7c9597f312425d036d7713264f7a6323bbb12b/after%20effect.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/df7c9597f312425d036d7713264f7a6323bbb12b/Adobe_XD_CC_icon.svg.png" width="50" height="50"> <img src="https://github.com/coderMerx/coderMerx/blob/df7c9597f312425d036d7713264f7a6323bbb12b/Adobe_Illustrator_CC_icon.svg.png" width="50" height="50"> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+### Data Base I Use
+<img src="https://github.com/coderMerx/coderMerx/blob/d53753bef7a3511834802c48ad9befb30a5b9e88/burp.png" width="50" height="50"> 
+<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite-logo" width="120"/>
+
 
 
 <!--
