@@ -23,7 +23,8 @@
  
 
 ### Frameworks I Use
-<img src="https://scrapy.org/img/logo.png" alt="scrapy-logo" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/scrapy/scrapy/main/docs/images/scrapy-logo.png" alt="Scrapy Logo" width="48" height="48"/>
+
 
 
 ### operating system
