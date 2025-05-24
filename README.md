@@ -5,12 +5,12 @@
  
    
       
-  <h1> 𝗜'𝗺 Krishna Kumar E.S <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
+  <h1> 𝗜'𝗺 JAGAN <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
        </h1>
-- 🔭 I’m Searching for job on Web Scraping Engineer <br>
-- 🌱 Worked Backend Tech For Secure Code - [ Python , NodeJs ] <br>
+- 🔭 I’m Searching for a job as Web Scraping Engineer <br>
+- 🌱 Worked Backend Tech For Secure Code - [ Python, NodeJs ] <br>
 - 👯 I’m looking to collaborate on Security Testing & Secure Code Dev <br>
-- ❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
+- ❤ I love doing **Scraping** For Hobby 🚀 <br>
 - 💻 I am Addicted to **Tea** 💎<br>
 ->> 
 
@@ -19,7 +19,7 @@
  <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
 
-### Framworks I Use
+### Frameworks I Use
 <img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/docker.png" alt="docker"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
 
 ### operating system
