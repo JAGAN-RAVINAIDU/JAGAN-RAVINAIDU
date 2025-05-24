@@ -5,14 +5,16 @@
  
    
       
-  <h1> 𝗜'𝗺 JAGAN <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
+  <h1>  Hi there, I'm Jagan Ravi! 👋 <img src="https://raw.githubusercontent.com/Narayanan-info/Narayanan-info/main/g1.gif" width="100" height="50">
        </h1>
-- 🔭 I’m Searching for a job as Web Scraping Engineer <br>
-- 🌱 Worked Backend Tech For Secure Code - [ Python, NodeJs ] <br>
-- 👯 I’m looking to collaborate on Security Testing & Secure Code Dev <br>
-- ❤ I love doing **Scraping** For Hobby 🚀 <br>
-- 💻 I am Addicted to **Tea** 💎<br>
-->> 
+
+- 🔭 I’m currently working on web scraping projects using Python and Scrapy.
+- 🌱 I’m currently learning advanced data extraction techniques and AI integration.
+- 👯 I’m looking to collaborate on open-source web scraping tools and automation projects.
+- 🤔 I’m looking for help with optimizing large-scale scraping pipelines.
+- 💬 Ask me about Python, web scraping, and data analysis.
+- ⚡ Fun fact: I’m passionate about turning complex data into actionable insights!
+
 
 ### IDE and Tools I Use
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
@@ -20,10 +22,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
 
  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm Badge"/>
-
- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="pycharm-logo" width="48" height="48"/>
-
- 
 
 ### Frameworks I Use
 <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="scrapy-badge"/>
