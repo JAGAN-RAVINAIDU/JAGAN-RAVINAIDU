@@ -32,12 +32,10 @@
 
    
 ### Data Base I Use
-<img src="https://github.com/coderMerx/coderMerx/blob/d53753bef7a3511834802c48ad9befb30a5b9e88/burp.png" width="50" height="50"> 
-<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite-logo" width="120"/>
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" width="48" height="48"/>
+
 
 
 
