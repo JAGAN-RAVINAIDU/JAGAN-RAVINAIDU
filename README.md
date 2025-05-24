@@ -23,7 +23,8 @@
  
 
 ### Frameworks I Use
-<img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/docker.png" alt="docker"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
+<img src="https://scrapy.org/img/logo.png" alt="scrapy-logo" width="48" height="48"/>
+
 
 ### operating system
 <img width="50" height="50" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/> <img src="https://github.com/coderMerx/coderMerx/blob/d53753bef7a3511834802c48ad9befb30a5b9e88/ubuntu.png" width="50" height="50">
