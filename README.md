@@ -18,13 +18,12 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
  <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
+ <img src="https://img.icons8.com/color/48/python--v1.png" alt="python-logo" width="48" height="48"/>
  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="pycharm-logo" width="48" height="48"/>
 
  
 
 ### Frameworks I Use
-<img src="(https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)"/>
-![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)
 <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="scrapy-badge"/>
 
 
